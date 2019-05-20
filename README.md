@@ -7,10 +7,15 @@ The notebooks run on a tensorflow backend.
 To Run them you need create a separate environment and install the foollowing in that environment.
 
 Tensorflow
+
 Keras
+
 Scikit Learn
+
 Pandas
+
 Numpy
+
 Seaborn
 
 Feel free to send me an email if you need any help
