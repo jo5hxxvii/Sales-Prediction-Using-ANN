@@ -1,6 +1,8 @@
 # Sales-Prediction-Using-ANN
 
-The two copies of the jupyter notebok files do basically the same thing save for one difference. The feature scalling for copy one is minmax scaler while the copy 2 uses a standard scaler.
+The two copies of the jupyter notebok files do basically the same thing save for one difference. The feature scalling for copy one uses a minmax scaler while the copy 2 uses a standard scaler.
+
+The project uses a three layer neural network to predict the sales.
 
 The notebooks run on a tensorflow backend.
 
